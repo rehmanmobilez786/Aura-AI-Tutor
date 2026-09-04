@@ -1,0 +1,11 @@
+{
+  "name": "Aura AI Tutor",
+  "description": "Interactive AI tutor with camera vision homework help, adaptive grade-based learning (KG to Higher Ed), parent & teacher progress dashboard, peer forum, gamified rewards, offline access, multilingual support, and tutor workspace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
